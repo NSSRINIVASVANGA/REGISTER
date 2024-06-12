@@ -1,0 +1,49 @@
+.home-con {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.extra-con{
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-con {
+  text-align: center;
+  font-family: 'Roboto';
+}
+
+.heading-2 {
+  color: #334155;
+}
+
+.desc-2 {
+  color: #475569;
+}
+
+.heading--1 {
+  color: #2563eb;
+}
+
+.desc-1 {
+  color: #334155;
+  font-weight: 500;
+}
+
+.image {
+  width: 100%;
+}
+
+.button {
+  background-color: #3b82f6;
+  color: #ffffff;
+  padding: 10px;
+  border: 0px;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+}
